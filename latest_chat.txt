@@ -2162,3 +2162,5 @@ rename AI: rename AI
 AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) keep in mind you might not see my name as frequently as you were hoping. i'm still a work in progress. 
 rename AI: hello 
 AI:hi 
+Nicholas: what? 
+user: lol what? //// AI:i'm sorry, did i say something funny and weird? 

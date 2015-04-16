@@ -717,4 +717,8 @@ call talk.bat)
 if "%user_said%"== "Because life means nothing." ( 
 call talk.bat)
 if "%user_said%"== "I hate spiders." ( 
+call talk.bat)
+if "%user_said%"== "notthing" ( 
+call talk.bat)
+if "%user_said%"== "yes you did" ( 
 call talk.bat) else (call learn.bat)

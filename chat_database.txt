@@ -353,3 +353,5 @@ user: How? //// AI:Books are still relavent no? In mother Russia, books learn yo
 user: Your hair. //// AI:Your facial hair.
 user: Because life means nothing. //// AI:Then this means that you are nothing?
 user: I hate spiders. //// AI:Spiders are getting closer to you now..
+user: notthing //// AI:i think you misspelled that...
+user: yes you did //// AI:did i?
