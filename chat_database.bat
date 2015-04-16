@@ -721,8 +721,11 @@ call talk.bat)
 if "%user_said%"== "notthing" ( 
 call talk.bat)
 if "%user_said%"== "yes you did" ( 
+<<<<<<< HEAD
 call talk.bat)
 if "%user_said%"== "i don't have a phobia" ( 
 call talk.bat)
 if "%user_said%"== "2015" ( 
+=======
+>>>>>>> 8955da027894d75b3e9e058141bcc27ef54a4710
 call talk.bat) else (call learn.bat)
