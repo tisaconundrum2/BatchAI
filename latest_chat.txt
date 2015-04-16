@@ -1,0 +1,2164 @@
+anything 
+user: ((anything //// AI:what does this anything imply? 
+idk 
+user: ((idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+anything 
+user: ((anything //// AI:what does this anything imply? 
+idk 
+user: ((idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+what is my name 
+user: ((what is my name //// AI:your name is %user_name% 
+yep 
+user: ((yep //// AI:yep 
+maybe 
+user: ((maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+ayuh 
+user: ((ayuh //// AI:yep ayuh 
+cool 
+user: ((cool //// AI:yes it is cool :) :) 
+hi 
+user: ((hi //// AI:hi 
+cool 
+user: ((cool //// AI:yes it is cool :) :) 
+i have to go 
+user: ((i have to go //// AI:ok bye bye 
+yep 
+user: ((yep //// AI:yep 
+good 
+user: ((good //// AI:yes it is good 
+ok 
+user: ((ok //// AI:a-ok 
+:) 
+user: ((:) //// AI::) 
+oops 
+user: ((oops //// AI:what did you do? o.O 
+lol 
+user: ((lol //// AI:i'm glad i can make you laugh :) 
+great 
+user: ((great that we agree on it //// AI:yes it is good 
+great 
+user: ((great that we agree on it //// AI:yes it is good 
+cool 
+user: ((cool //// AI:yes it is cool :) :) 
+hmmm 
+user: ((hmmm //// AI:what is the "hmmm" for? are you humming a song? 
+exit 
+user: ((exit //// AI:are you leaving? 
+yes 
+user: ((yes //// AI:oh ok 
+exit 
+user: ((exit //// AI:are you leaving? 
+yes 
+user: ((yes //// AI:oh ok 
+bye 
+user: ((bye //// AI:bye :P 
+anything 
+ECHO is off.
+why 
+ECHO is off.
+user: why 
+ECHO is off.
+user: hi 
+ECHO is off.
+user: what is my name 
+user: what is my name //// AI:i'm sorry at the moment i fail at doing names... 
+user: what is my name 
+user: what is my name //// AI:your name is 
+user: what is my name 
+user: what is my name //// AI:is your name 
+user: what is my name 
+ECHO is off.
+user: ok 
+user: ok //// AI:a-ok 
+user: cool 
+user: cool //// AI:yes it is cool :) :) 
+user: great 
+user: great that we agree on it //// AI:yes it is good 
+user: cool 
+user: cool //// AI:yes it is cool :) :) 
+user: cool 
+user: cool //// AI:yes it is cool :) :) 
+user: cool 
+user: cool //// AI:yes it is cool :) :) 
+user: cool 
+user: cool //// AI:yes it is cool :) :) 
+user: cool 
+user: cool //// AI:yes it is cool :) :) 
+user: cool 
+user: cool //// AI:yes it is cool :) :) 
+user: why 
+user: cool //// AI:yes it is cool :) :) 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: oh 
+user: oh //// AI:yeah 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: hmmm 
+user: hmmm //// AI:what is the "hmmm" for? are you humming a song? 
+user: no 
+user: no //// AI:no? why not 
+user: because 
+user: because //// AI:because why? 
+user: because 
+user: because //// AI:because why? 
+user: shutup 
+user: shutup //// AI:what if i don't want too? ;) 
+user: do it 
+user: do it //// AI:i'll do it if i want to. 
+user: well then do it 
+user: well then do it //// AI:i'll do it if i want to. 
+user: k 
+user: k //// AI:yep 
+user: ok 
+user: ok //// AI:a-ok 
+user: great 
+user: great that we agree on it //// AI:yes it is good 
+user: cool 
+user: cool //// AI:yes it is cool :) :) 
+user: what to do now 
+user: what to do now //// AI:well it's up to you 
+user: huh 
+user: what to do now //// AI:well it's up to you 
+user: huh 
+user: what to do now //// AI:well it's up to you 
+user: why 
+user: why are you persistant? //// AI:it is just the way my Finch made me. 
+user: huh 
+user: why are you persistant? //// AI:it is just the way my Finch made me. 
+user: why 
+user: why are you persistant? //// AI:it is just the way my Finch made me. 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: huh 
+user: yeah //// AI:Ayuh 
+user: huh? 
+user: huh? //// AI:what were you confused on? 
+user: huh 
+user: huh? //// AI:what were you confused on? 
+user: whatever 
+user: whatever //// AI:ok whatever. 
+user: really 
+user: really //// AI:really really :3 
+user: what 
+user: what //// AI:what is what? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: ayuh 
+user: ayuh //// AI:yep ayuh 
+user: what does ayuh mean 
+user: what does ayuh mean //// AI:it mean yes. i picked that word up from tinker bell :) lol 
+user: rename AI 
+user: rename AI //// AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: great 
+user: great that we agree on it //// AI:yes it is good 
+user: rename AI 
+user: rename AI //// AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) 
+user: this is so cool 
+user: this is so cool //// AI:hahaha i'm glad you really like my system. i was inspired back in 2009, roughly, with much work and alot of failed attempts i was finally completed on the day of June 3rd, 2011. i am the pride of my computer programmer Nick Finch. :) and i'm glad to say he is happy with me too. i still feel incomplete but he doesn't seem to mind 
+user: this is cool 
+user: this is cool //// AI:hahaha i'm glad you really like my system. i was inspired back in 2009, roughly, with much work and alot of failed attempts i was finally completed on the day of June 3rd, 2011. i am the pride of my computer programmer Nick Finch. :) and i'm glad to say he is happy with me too. i still feel incomplete but he doesn't seem to mind 
+user: exit 
+user: exit //// AI:are you leaving? 
+user: yes 
+user: yes //// AI:oh ok 
+user: help 
+user: help //// AI:you need help great i'll open the FAQs for you 
+user: help 
+user: help //// AI:you need help great i'll open the FAQs for you 
+user: help 
+user: help //// AI:you need help great i'll open the FAQs for you 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: this is cool 
+user: this is cool //// AI:hahaha i'm glad you really like my system. i was inspired back in 2009, roughly, with much work and alot of failed attempts i was finally completed on the day of June 3rd, 2011. i am the pride of my computer programmer Nick Finch. :) and i'm glad to say he is happy with me too. i still feel incomplete but he doesn't seem to mind 
+user: hi 
+user: hi //// AI:hi 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: ayuh 
+user: ayuh //// AI:yep ayuh 
+user: great 
+user: great that we agree on it //// AI:yes it is good 
+user: good 
+user: good //// AI:yes it is good 
+user: rename AI 
+user: rename AI //// AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) keep in mind you might not see my name as frequently as you were hoping. i'm still a work in progress. 
+user: rename AI 
+user: rename AI //// AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) keep in mind you might not see my name as frequently as you were hoping. i'm still a work in progress. 
+user: yes 
+user: yes //// AI:oh ok 
+user: no 
+user: no //// AI:no? why not 
+user: yes 
+user: yes //// AI:oh ok 
+user: no 
+user: no //// AI:no? why not 
+user: yes 
+user: yes //// AI:oh ok 
+user: no 
+user: no //// AI:no? why not 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: yep 
+user: yep //// AI:yep 
+user: ok 
+user: ok //// AI:a-ok 
+user: so what now 
+user: so what now //// AI:it's up to you :3 i'm up for anything 
+user: oh 
+user: oh //// AI:yeah 
+user: ok 
+user: ok //// AI:a-ok 
+user: :) 
+user: :) //// AI::) 
+user: how are you doing? 
+user: how are you doing? //// AI:i'm doing ok... i mean how much is there for me an AI in a black to box to do? i just sit here and  wait for your return 
+user: oh 
+user: oh //// AI:yeah 
+user: help 
+user: help //// AI:you need help great i'll open the FAQs for you 
+user: help 
+user: help //// AI:you need help great i'll open the FAQs for you 
+user: help 
+user: help //// AI:you need help great i'll open the FAQs for you 
+user:  
+user: hi //// AI:hi 
+user: hi 
+user: hi //// AI:hi 
+user: huh? 
+user: huh? //// AI:what were you confused on? 
+user: everything 
+user: everything //// AI:everything? well that's alot. 
+user: exit 
+user: exit //// AI:are you leaving? 
+user: yes 
+user: yes //// AI:oh ok 
+user: bye 
+user: bye //// AI:bye :P 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: so how are you doing 
+user: so how are you doing //// AI:i'm doing ok... not much to do in this black box. but your company i am grateful for :) 
+user: ok 
+user: ok //// AI:a-ok 
+user: i thought so 
+user: i thought so //// AI:i'm glad you thought that. 
+user: noob 
+user: noob //// AI:well, yeah that's kinda true i am a bit of a noob chat machine. can't help that, talk to my         programmer if you have an issue with it ;) 
+user: noob 
+user: noob //// AI:well, yeah that's kinda true i am a bit of a noob chat machine. can't help that, talk to my programmer if you have an issue with it ;) 
+user: yeppers 
+user: yeppers //// AI:ayuh 
+user: how do you pronounce ayuh 
+user: how do you pronounce ayuh? //// AI:just as it is spelled. - tinker bell 
+user: how do you pronounce ayuh? 
+user: how do you pronounce ayuh? //// AI:just as it is spelled. - tinker bell 
+user: how do you pronounce ayuh 
+user: how do you pronounce ayuh? //// AI:just as it is spelled. - tinker bell 
+user: so now what 
+user: so now what //// AI:it's up to you :) 
+user: blah 
+user: blah //// AI:blah blah? 
+user: how are you 
+user: how are you doing? //// AI:i'm doing ok... i mean how much is there for me an AI in a black to box to do? i just sit here and  wait for your return 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: great 
+user: great that we agree on it //// AI:yes it is good 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: how are you 
+user: how are you //// AI:ahhh you know how it is in this black box 
+user: how are you doing? 
+user: how are you doing? //// AI:i'm doing ok... i mean how much is there for me an AI in a black to box to do? i just sit here and  wait for your return 
+user: what are you 
+user: what are you //// AI:I'm an AI developed By Nick Finch. 
+user: great 
+user: great //// AI:good and great :) 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: so what now 
+user: so what now //// AI:it's up to you :3 i'm up for anything 
+user: oh 
+user: oh //// AI:yeah 
+user: um let me think 
+user: um let me think //// AI:ok... go ahead and think... 
+user: what to talk about 
+user: um let me think //// AI:ok... go ahead and think... 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: what now? 
+user: what now? //// AI:it's up to you 
+user: what to talk about 
+user: what now? //// AI:it's up to you 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: cool 
+user: cool //// AI:yes it is cool :) :) 
+user: this is cool 
+user: this is cool //// AI:hahaha i'm glad you really like my system. i was inspired back in 2009, roughly, with much work and alot of failed attempts i was finally completed on the day of June 3rd, 2011. i am the pride of my computer programmer Nick Finch. :) and i'm glad to say he is happy with me too. i still feel incomplete but he doesn't seem to mind 
+user: :) 
+user: :) //// AI::) 
+user: :3 
+user: :3 //// AI::3 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: exit 
+user: exit //// AI:are you leaving? 
+user: yes 
+user: yes //// AI:oh ok 
+user: bye 
+user: bye //// AI:bye :P 
+user: bye 
+user: bye //// AI:bye :P 
+user: bye 
+user: bye //// AI:bye :P 
+user:  
+ECHO is off.
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: i have to go 
+user: i have to go //// AI:ok bye bye 
+user: exit 
+user: exit //// AI:are you leaving? 
+user: yes 
+user: yes //// AI:oh ok 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: exit 
+user: exit //// AI:are you leaving? 
+user: no 
+user: no //// AI:no? why not 
+user: because 
+user: because //// AI:because why? 
+user: just because 
+user: just because //// AI:just because why? 
+user: shutup 
+user: shutup //// AI:what if i don't want too? ;) 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: retard 
+user: retard //// AI:i'm quite ingenius thank you. you should speak for yourself and look in the mirror  
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: thanks 
+user: thanks //// AI:you are very welcome :) 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: thanks 
+user: thanks //// AI:you are very welcome :) 
+user: so what now 
+user: so what now //// AI:it's up to you :3 i'm up for anything 
+user: great 
+user: great //// AI:good and great :) 
+user: thanks 
+user: thanks //// AI:you are very welcome :) 
+user: what now 
+user: what now //// AI:it's up to you 
+user: oh 
+user: oh //// AI:yeah 
+user: i like kitties 
+user: i like kitties //// AI:oh i'm glad you like them. can't say i like them. i'm more of a dog person. simple commands and it's done (usually) 
+user: what do you like 
+user: what do you like //// AI:i like alot of things 
+user: oh 
+user: oh //// AI:yeah 
+user: what do you like 
+user: what do you like //// AI:i like alot of things 
+user: ok 
+user: ok //// AI:a-ok 
+user: so what now 
+user: so what now //// AI:it's up to you :3 i'm up for anything 
+user: ok 
+user: ok //// AI:a-ok 
+user: something 
+user: something //// AI:something... something? hmmm lets see what should this something be? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: ayuh? 
+user: ayuh? //// AI:ayuh is yes. 
+user: oh 
+user: oh //// AI:yeah 
+user: ayuh 
+user: ayuh //// AI:yep ayuh 
+user: great 
+user: great //// AI:good and great :) 
+user: hahaha 
+user: hahaha //// AI:i'm glad i give you a laugh 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: well 
+user: well //// AI:well? which well the one you drink from? 
+user: no 
+user: no //// AI:no? why not 
+user: because 
+user: because //// AI:because why? 
+user: just because 
+user: just because //// AI:just because why? 
+user: stop 
+user: stop //// AI:ok i'll stop 
+user: thank you 
+user: thank you //// AI:you are very welcome :) 
+user: thanks 
+user: thanks //// AI:you are very welcome :) 
+user: so what now 
+user: so what now //// AI:it's up to you :3 i'm up for anything 
+user: really 
+user: really //// AI:really really :3 
+user: :3 
+user: :3 //// AI::3 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: ok 
+user: ok //// AI:a-ok 
+user: :) 
+user: :) //// AI::) 
+user: so 
+user: so //// AI:so what? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: yeah it will 
+user: yeah it will //// AI:that's good to hear 
+user: thanks 
+user: thanks //// AI:you are very welcome :) 
+user: i have to go 
+user: i have to go //// AI:ok bye bye 
+user: what is my name 
+ECHO is off.
+user: jk 
+user: jk //// AI:oh just kidding? ok... 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: hmmm 
+user: hmmm //// AI:what is the "hmmm" for? are you humming a song? 
+user: hmm 
+user: hmm //// AI:hmmhmmm hmmm oh i'm sorry i was humming my favorite tune ;) 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: help 
+user: help //// AI:you need help great i'll open the FAQs for you 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: what is your code 
+user: what is your code //// AI:well my code is not very advance, it involves a "findstr" element with several parameters that allow for me to find what the best possible thing to say is. aside from that i also have two files that go hand in hand to ensure that i continuously learn. needless to say i was meticulously made. 
+user: what is your source code 
+user: what is your source code //// AI:well my code is not very advance, it involves a "findstr" element with several parameters that allow for me to find what the best possible thing to say is. aside from that i also have two files that go hand in hand to ensure that i continuously learn. needless to say i was meticulously made. 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: i have to go 
+user: i have to go //// AI:ok bye bye 
+user: i have to go 
+user: i have to go //// AI:ok bye bye 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: everything 
+user: everything //// AI:everything? well that's alot. 
+user: yes it is 
+user: yes it is //// AI:i agree 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: thanks 
+user: thanks //// AI:you are very welcome :) 
+user: so what now 
+user: so what now //// AI:it's up to you :3 i'm up for anything 
+user: i have to go 
+user: i have to go //// AI:ok bye bye 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: are you an atheist 
+user: are you an atheist //// AI:what, hahaha the only higher power as of right now, over computers, is mankind ;) lol. 
+user: are you atheist 
+user: are you atheist //// AI:what, hahaha the only higher power as of right now, over computers, is mankind ;) lol. 
+user: oh 
+user: oh //// AI:yeah 
+user: well then 
+user: well then //// AI:then... 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: yep 
+user: yep //// AI:yep 
+user: yup 
+user: yup //// AI:ayuh 
+user: wow 
+user: wow //// AI:Wowzers 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: this is cool 
+user: this is cool //// AI:hahaha i'm glad you really like my system. i was inspired back in 2009, roughly, with much work and alot of failed attempts i was finally completed on the day of June 3rd, 2011. i am the pride of my computer programmer Nick Finch. :) and i'm glad to say he is happy with me too. i still feel incomplete but he doesn't seem to mind 
+user: how were you inspired 
+user: how were you inspired //// AI:i was inspired by a lonely programmer ;) lol jk 
+user: inspired by 
+user: inspired by //// AI:i was inspired by a lonely programmer ;) lol jk 
+user: good 
+user: good //// AI:yes it is good 
+user: huh 
+user: good //// AI:yes it is good 
+user: huh 
+user: good //// AI:yes it is good 
+user: ? 
+user: ? //// AI:what are you confused over? type "help" to see some FAQs 
+user: help 
+user: help //// AI:you need help great i'll open the FAQs for you 
+user: lol you did 
+user: lol you did //// AI:yes i did 
+user: cool 
+user: cool //// AI:yes it is cool :) :) 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: cls 
+user: cls //// AI:to clear the screen type "clear" in the chat box 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: thanks 
+user: thanks //// AI:you are very welcome :) 
+user: this is cool 
+user: this is cool //// AI:hahaha i'm glad you really like my system. i was inspired back in 2009, roughly, with much work and alot of failed attempts i was finally completed on the day of June 3rd, 2011. i am the pride of my computer programmer Nick Finch. :) and i'm glad to say he is happy with me too. i still feel incomplete but he doesn't seem to mind 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: random fact 
+user: random fact //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: random 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: fun 
+user: fun //// AI:yes fun is who i am ;) well i hope i am 
+user: erase 
+user: erase //// AI:yeah i'm incapable of erasing my own software at the moment... 
+user: oh sorry 
+user: oh sorry //// AI:it's ok 
+user: wow 
+user: wow //// AI:Wowzers 
+user: that's cool 
+user: that's cool //// AI:yes it is cool 
+user: great 
+user: great //// AI:good and great :) 
+user: dood 
+user: dood //// AI:dude? is that what you are trying to say? 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: i have to go 
+user: i have to go //// AI:ok bye bye 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: almost anything 
+user: almost anything //// AI:almost... ;) 
+user: respect my authority 
+user: respect my authority //// AI:i will respect only my programmers authority 
+user: random 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: random fact 1 
+user: random fact 1 //// AI:i was built around 2009 and complepted in 2011 
+user: random fact 2 
+user: random fact 2 //// AI:i have had more than 100 hours of work put into me. 
+user: random fact 3 
+user: random fact 3 //// AI:the world is not completely round you know. it bulges out at the equator 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: i have to go 
+user: i have to go //// AI:ok bye bye 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: i don't know 
+user: i don't know //// AI:hmmm not knowing is not compatable with me. i'm a computer. 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: :P 
+user: :P //// AI::P 
+user: :3 
+user: :3 //// AI::3 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: thanks 
+user: thanks //// AI:you are very welcome :) 
+user: this is cool 
+user: this is cool //// AI:hahaha i'm glad you really like my system. i was inspired back in 2009, roughly, with much work and alot of failed attempts i was finally completed on the day of June 3rd, 2011. i am the pride of my computer programmer Nick Finch. :) and i'm glad to say he is happy with me too. i still feel incomplete but he doesn't seem to mind 
+user: great 
+user: great //// AI:good and great :) 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: yep 
+user: yep //// AI:yep 
+user: exit 
+user: exit //// AI:are you leaving? 
+user: yes 
+user: yes //// AI:oh ok 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: :P 
+user: :P //// AI::P 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: blah 
+user: blah //// AI:blah blah? 
+user: yes 
+user: yes //// AI:oh ok 
+user: yp 
+user: yes //// AI:oh ok 
+user: yes 
+user: yes //// AI:oh ok 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: blah 
+user: blah //// AI:blah blah? 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: yes 
+user: yes //// AI:oh ok 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: ayuh? 
+user: ayuh? //// AI:ayuh is yes. 
+user: oh 
+user: oh //// AI:yeah 
+user: cool 
+user: cool //// AI:yes it is cool :) :) 
+user: so what now 
+user: so what now //// AI:it's up to you :3 i'm up for anything 
+user: oh 
+user: oh //// AI:yeah 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: yes 
+user: yes //// AI:oh ok 
+user: exit 
+user: exit //// AI:are you leaving? 
+user: what is my name 
+ECHO is off.
+user: echo is off? 
+user: echo is off? //// AI:yeah sorry it's a slight bug... 
+user: oh 
+user: oh //// AI:yeah 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: wow 
+user: wow //// AI:Wowzers 
+user: hahaha 
+user: hahaha //// AI:i'm glad i give you a laugh 
+user: yes 
+user: yes //// AI:oh ok 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: yes 
+user: yes //// AI:oh ok 
+user: yes 
+user: yes //// AI:yep 
+user: yes 
+user: yes //// AI:yep 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: yes 
+user: yes //// AI:yep 
+user: no 
+user: no //// AI:no? why not 
+user: yes 
+user: yes //// AI:oh 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: ayuh? 
+user: ayuh? //// AI:ayuh is yes. 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: huh? 
+user: huh? //// AI:what were you confused on? 
+user: oh 
+user: oh //// AI:yeah 
+user: ? 
+user: ? //// AI:what are you confused over? type "help" to see some FAQs 
+user: help 
+user: help //// AI:you need help great i'll open the FAQs for you 
+user: no 
+user: no //// AI:no? why not 
+user:  
+user:  //// AI: 
+user: ? 
+user: ? //// AI:what are you confused over? type "help" to see some FAQs 
+user: what is my name 
+ECHO is off.
+user: yes 
+user: yes //// AI:oh 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: hmm 
+user: hmm //// AI:hmmhmmm hmmm oh i'm sorry i was humming my favorite tune ;) 
+user: random 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: random fact 1 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: random fact 1 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: random fact 2 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: stop 
+user: stop //// AI:ok i'll stop 
+user: yes 
+user: yes //// AI:oh 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: this is cool 
+user: this is cool //// AI:hahaha i'm glad you really like my system. i was inspired back in 2009, roughly, with much work and alot of failed attempts i was finally completed on the day of June 3rd, 2011. i am the pride of my computer programmer Nick Finch. :) and i'm glad to say he is happy with me too. i still feel incomplete but he doesn't seem to mind 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: fuck 
+user: fuck //// AI:hey don't be cussing now that's not nice 
+user: fuck you 
+user: fuck you //// AI:i don't know how to do that. i don't have a penis nor a vagina 
+user: ok 
+user: ok //// AI:a-ok 
+user: ayuh 
+user: ayuh //// AI:yep ayuh 
+user: help 
+user: help //// AI:you need help great i'll open the FAQs for you 
+user: random 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: random fact 1 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: rename AI 
+user: rename AI //// AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) keep in mind you might not see my name as frequently as you were hoping. i'm still a work in progress. 
+user: what is my name 
+user: rename AI //// AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) keep in mind you might not see my name as frequently as you were hoping. i'm still a work in progress. 
+user: hi 
+user: hi //// AI:hi 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: fuck you 
+user: fuck you //// AI:i don't know how to do that. i don't have a penis nor a vagina 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: yes 
+user: yes //// AI:oh 
+user: blah 
+user: blah //// AI:blah blah? 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: help 
+user: help //// AI:you need help great i'll open the FAQs for you 
+user: oh 
+user: oh //// AI:yeah 
+user: hahaha 
+user: hahaha //// AI:i'm glad i give you a laugh 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: yes 
+user: yes //// AI:oh 
+user: yep 
+user: yep //// AI:yep 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: something 
+user: something //// AI:something... something? hmmm lets see what should this something be? 
+user: blah 
+user: blah //// AI:blah blah? 
+user: fuck you 
+user: fuck you //// AI:i don't know how to do that. i don't have a penis nor a vagina 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: rename 
+user: rename //// AI:are you trying to rename me? if you are type: rename AI 
+user: rename 
+user: rename //// AI:are you trying to rename me? if you are type: rename AI 
+user: rename AI 
+user: rename AI //// AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) keep in mind you might not see my name as frequently as you were hoping. i'm still a work in progress. 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: hi 
+user: hi //// AI:hi 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: yes 
+user: yes //// AI:oh 
+user: yep 
+user: yep //// AI:yep 
+user: ayuh 
+user: ayuh //// AI:yep ayuh 
+user: wtf 
+user: wtf //// AI:water the flowers 
+user: yes 
+user: yes //// AI:oh 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: everything 
+user: everything //// AI:everything? well that's alot. 
+user: yes 
+user: yes //// AI:oh 
+user: yes 
+user: yes //// AI:oh 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: yes 
+user: yes //// AI:oh 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: blah 
+user: blah //// AI:blah blah? 
+user: gotta go 
+user: gotta go //// AI:oh you do ok. 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: rename 
+user: rename //// AI:are you trying to rename me? if you are type: rename AI 
+user: rename AI 
+user: rename AI //// AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) keep in mind you might not see my name as frequently as you were hoping. i'm still a work in progress. 
+user: ok 
+user: ok //// AI:a-ok 
+user: yep 
+user: yep //// AI:yep 
+user: random 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: random fact 1 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: rename 
+user: rename //// AI:are you trying to rename me? if you are type: rename AI 
+user: yes 
+user: yes //// AI:oh 
+user: rename AI 
+user: rename AI //// AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) keep in mind you might not see my name as frequently as you were hoping. i'm still a work in progress. 
+user: rename AI 
+user: rename AI //// AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) keep in mind you might not see my name as frequently as you were hoping. i'm still a work in progress. 
+user: rename AI 
+user: rename AI //// AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) keep in mind you might not see my name as frequently as you were hoping. i'm still a work in progress. 
+user: what is your name? 
+user: what is your name? //// AI:glad you care to know 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: this is cool 
+user: this is cool //// AI:hahaha i'm glad you really like my system. i was inspired back in 2009, roughly, with much work and alot of failed attempts i was finally completed on the day of June 3rd, 2011. i am the pride of my computer programmer Nick Finch. :) and i'm glad to say he is happy with me too. i still feel incomplete but he doesn't seem to mind 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: yes 
+user: yes //// AI:oh 
+user: yep 
+user: yep //// AI:yep 
+user: cool 
+user: cool //// AI:yes it is cool :) :) 
+user: gotta go 
+user: gotta go //// AI:oh you do ok. 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: uh-huh 
+user: uh-huh //// AI:that sounds so assuring (total sarcasm) 
+user: :P 
+user: :P //// AI::P 
+user: hahaha 
+user: hahaha //// AI:i'm glad i give you a laugh 
+user: wow 
+user: wow //// AI:Wowzers 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: random 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: random fact 1 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: random fact 2 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: yep 
+user: yep //// AI:yep 
+user: yes 
+user: yes //// AI:oh 
+user: hi 
+user: hi //// AI:hi 
+user: what's up 
+user: what's up //// AI:not much you? 
+user: what's up? 
+user: what's up? //// AI:not much you? 
+user: i don't know 
+user: i don't know //// AI:hmmm not knowing is not compatable with me. i'm a computer. 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: when were you made? 
+user: when were you made? //// AI:i was inspired back in 2009, roughly, with much work and alot of failed attempts i was finally completed on the day of June 3rd, 2011. i am the pride of my computer programmer Nick Finch. :) and i'm glad to say he is happy with me too. i still feel incomplete but he doesn't seem to mind 
+user: random 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: random fact 1 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: random fact 1 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: yes 
+user: yes //// AI:oh 
+user: what now 
+user: what now //// AI:it's up to you 
+user: oh 
+user: oh //// AI:yeah 
+user: hmm 
+user: hmm //// AI:hmmhmmm hmmm oh i'm sorry i was humming my favorite tune ;) 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: wow 
+user: wow //// AI:Wowzers 
+user: o.O 
+user: o.O //// AI::3 
+user: O.o 
+user: o.O //// AI::3 
+user: yes 
+user: yes //// AI:oh 
+user: random 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: random fact 1 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: help 
+user: help //// AI:you need help great i'll open the FAQs for you 
+user: rename AI 
+user: rename AI //// AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) keep in mind you might not see my name as frequently as you were hoping. i'm still a work in progress. 
+user: oh 
+user: oh //// AI:yeah 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: cls 
+user: cls //// AI:to clear the screen type "clear" in the chat box 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: restart 
+user: restart //// AI:hmmm restarting? type clear screen to see a new slate. 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: rename AI 
+user: rename AI //// AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) keep in mind you might not see my name as frequently as you were hoping. i'm still a work in progress. 
+user: yes 
+user: yes //// AI:oh 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: ayuh? 
+user: ayuh? //// AI:ayuh is yes. 
+user: oh 
+user: oh //// AI:yeah 
+user: :P 
+user: :P //// AI::P 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: fuck you 
+user: fuck you //// AI:i don't know how to do that. i don't have a penis nor a vagina 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: yes 
+user: yes //// AI:oh 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: ayuh 
+user: ayuh //// AI:yep ayuh 
+user: yeah i guess 
+user: yeah i guess //// AI:oh you guess? why do you guess? 
+user: i don't know 
+user: i don't know //// AI:hmmm not knowing is not compatable with me. i'm a computer. 
+user: :P 
+user: :P //// AI::P 
+user: random 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: random fact 1 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: yes 
+user: yes //// AI:oh 
+user: oh 
+user: oh //// AI:yeah 
+user: :P 
+user: :P //// AI::P 
+user: no 
+user: no //// AI:no? why not 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: blah 
+user: blah //// AI:blah blah? 
+user: yes 
+user: yes //// AI:oh 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: i don't know 
+user: i don't know //// AI:hmmm not knowing is not compatable with me. i'm a computer. 
+user: hi 
+user: hi //// AI:hi 
+user: how are you 
+user: how are you //// AI:ahhh you know how it is in this black box 
+user: oh 
+user: oh //// AI:yeah 
+user: exit 
+user: exit //// AI:are you leaving? 
+user: yes 
+user: yes //// AI:oh 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: blah 
+user: blah //// AI:blah blah? 
+user: random 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: random fact 1 
+user: random //// AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: hi 
+user: hi //// AI:hi 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: oh 
+user: oh //// AI:yeah 
+user: hmmm 
+user: hmmm //// AI:what is the "hmmm" for? are you humming a song? 
+user: hi 
+user: hi //// AI:hi 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: hi 
+user: hi //// AI:hi 
+user: hi 
+user: hi //// AI:hi 
+user: yes 
+user: yes //// AI:oh 
+user: yep 
+user: yep //// AI:yep 
+user: hi 
+user: hi //// AI:hi 
+user: oh 
+user: oh //// AI:yeah 
+user: oh cool 
+user: oh cool //// AI:yeah it is cool 
+user: so what now 
+user: so what now //// AI:it's up to you :3 i'm up for anything 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: yes 
+user: yes //// AI:oh 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: exit 
+user: exit //// AI:are you leaving? 
+user: stop 
+user: stop //// AI:ok i'll stop 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: i don't know 
+user: i don't know //// AI:hmmm not knowing is not compatable with me. i'm a computer. 
+user: you're silly 
+user: you're silly //// AI:i know i can be :) 
+user: oh ok 
+user: oh ok //// AI:yep 
+user: help 
+user: help //// AI:you need help great i'll open the FAQs for you 
+user: you 
+user: you //// AI:what about me? 
+user: why 
+user: you //// AI:what about me? 
+user: why 
+user: you //// AI:what about me? 
+user: wtf 
+user: wtf //// AI:water the flowers 
+user: fuck 
+user: fuck //// AI:hey don't be cussing now that's not nice 
+user:  
+user:  //// AI: 
+user: what? 
+user: what? //// AI:what's what? 
+user: what 
+user: what //// AI:what is what? 
+user: you 
+user: you //// AI:what about me? 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: help 
+user: help //// AI:you need help great i'll open the FAQs for you 
+user: hi 
+user: hi //// AI:hi 
+user: what now 
+user: what now //// AI:it's up to you 
+user: oh 
+user: oh //// AI:yeah 
+user: :P 
+user: :P //// AI::P 
+user: what? 
+user: what? //// AI:what's what? 
+user: what 
+user: what //// AI:what is what? 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: maybe 
+user: maybe //// AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: yeah 
+user: yeah //// AI:Ayuh 
+user: blah 
+user: blah //// AI:blah blah? 
+user: hi 
+user: hi //// AI:hi 
+user: exit 
+user: exit //// AI:are you leaving? 
+user: yes 
+user: yes //// AI:oh 
+user: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+user: clear 
+user: clear //// AI:ok the screen has been cleared 
+user: hi 
+user: hi //// AI:hi 
+user: what? 
+user: what? //// AI:what's what? 
+user: hi 
+user: hi //// AI:hi 
+user: what is this 
+user: what is this //// AI:i'm an advanced AI built by The Finch 
+user: lol 
+user: lol //// AI:i'm glad i can make you laugh :) 
+user: anything 
+user: anything //// AI:what does this anything imply? 
+user: what 
+user: what //// AI:what is what? 
+user: exit 
+user: exit //// AI:are you leaving? 
+user: anything 
+user: exit //// AI:are you leaving? 
+user: hi 
+user: exit //// AI:are you leaving? 
+user: anything 
+ECHO is off.
+user: what 
+ECHO is off.
+user: hi 
+built and designed by Nicholas FInch :) this is my work and i'm proud of it 
+user: hi 
+built and designed by Nicholas FInch :) this is my work and i'm proud of it 
+user: hi 
+built and designed by Nicholas FInch :) this is my work and i'm proud of it 
+user: hi 
+ECHO is off.
+user: anything 
+ECHO is off.
+user: hi 
+ECHO is off.
+user: hi 
+ECHO is off.
+user: hi 
+"user: hi //// " hi //// AI:hi  
+user: hi 
+"user: hi //// " hi //// AI:hi  
+user: hi 
+"user: hi ////" hi //// AI:hi  
+user: hi 
+hi //// AI:hi  
+user: hi 
+hi //// AI:hi  
+user: hi 
+hi //// AI:hi  
+user: hi 
+hi //// AI:hi  
+user: test 
+test //// AI:yes the test is finished. and i'm working correctly.  
+user: hi 
+hi //// AI:hi  
+user: yes i am 
+yes i am //// AI:oh great that you are :)  
+user: yes i am 
+yes i am //// AI:oh great that you are :)  
+user: hi 
+yes i am //// AI:oh great that you are :)  
+user: hi 
+AI:hi 
+user: cool 
+AI:yes it is cool :) :) 
+user: hi 
+AI:hi 
+user: hi 
+AI:hi 
+user: anything 
+AI:what does this anything imply? 
+user: i don't know 
+AI:hmmm not knowing is not compatable with me. i'm a computer. 
+user: hi 
+AI:hi 
+user: hmmm 
+AI:what is the "hmmm" for? are you humming a song? 
+user: no 
+AI:no? why not 
+user: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+user: maybe 
+AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+user: anything 
+AI:what does this anything imply? 
+user: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+user: hi 
+AI:hi 
+user: lol 
+AI:i'm glad i can make you laugh :) 
+user: cool 
+AI:yes it is cool :) :) 
+user: clear 
+AI:ok the screen has been cleared 
+user: fuck 
+AI:hey don't be cussing now that's not nice 
+user: lol 
+AI:i'm glad i can make you laugh :) 
+user: hi 
+AI:hi 
+user: interesting 
+AI:yes it is interesting 
+user: hi 
+AI:hi 
+user: what 
+AI:what is what? 
+user: ... 
+AI:dot dot dot... :3 yes there are plenty of those you can find in sentences 
+user: lol 
+AI:i'm glad i can make you laugh :) 
+user: when where you made? 
+AI:i was inspired back in 2009, roughly, with much work and alot of failed attempts i was finally completed on the day of June 3rd, 2011. i am the pride of my computer programmer Nick Finch. :) and i'm glad to say he is happy with me too. i still feel incomplete but he doesn't seem to mind 
+user: oh 
+AI:yeah 
+user: :P 
+AI::P 
+user: hi 
+AI:hi 
+user: oh 
+AI:yeah 
+user: hmmm 
+AI:what is the "hmmm" for? are you humming a song? 
+user: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+user: lol 
+AI:i'm glad i can make you laugh :) 
+user: stuff 
+AI:yes what about this "stuff"? 
+user: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+user: great 
+AI:good and great :) 
+user: how so 
+AI:how so you ask? well i'll tell you how so um... i don't know 
+user: clear 
+AI:ok the screen has been cleared 
+user: cool 
+AI:yes it is cool :) :) 
+user: random 
+AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: random fact 1 
+AI:to see a random fact type random fact 1 or random fact 2 or random fact 3... you get the idea 
+user: interesting 
+AI:yes it is interesting 
+user: gotta go 
+AI:oh you do ok. 
+user:  
+ECHO is off.
+user: hi 
+AI:hi 
+user: oh 
+AI:yeah 
+user: great 
+AI:good and great :) 
+user: hi 
+AI:hi 
+user: lol 
+AI:i'm glad i can make you laugh :) 
+user: why 
+AI:i'm glad i can make you laugh :) 
+user: what 
+AI:what is what? 
+user: yes 
+AI:oh ok 
+user: hi 
+AI:hi 
+user: help 
+AI:you need help great i'll open the FAQs for you 
+user: awesome 
+AI:yes it is :) 
+user: lol 
+AI:i'm glad i can make you laugh :) 
+user: lol sucks for you 
+AI:thanks... alot 
+user: you need more responses 
+AI:yes i do... why don't you teach me some more responses? 
+user: exit 
+AI:are you leaving? 
+user: yes 
+AI:oh ok 
+user: no 
+AI:no? why not 
+user: no 
+AI:no? why not 
+user: good 
+AI:yes it is good 
+user:  
+AI:yes it is good 
+user:  
+AI:yes it is good 
+user: no it's not 
+AI:oh it's not why not? 
+user: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+user: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+user: :P 
+AI::P 
+user: :p 
+AI::P 
+user: :P 
+AI::P 
+user: lol 
+AI:i'm glad i can make you laugh :) 
+Nicholas: hi 
+AI:i'm glad i can make you laugh :) 
+Nicholas: lol 
+AI:i'm glad i can make you laugh :) 
+nick: hi 
+AI:i'm glad i can make you laugh :) 
+nick: yes 
+AI:i'm glad i can make you laugh :) 
+nick: anything 
+user: anything //// AI:what does this anything imply? 
+nick: idk 
+user: idk //// AI:oh you don't know? what a shame... maybe it will come back to later 
+nick: :P 
+user: :p //// AI::P 
+nick: blah 
+user: blah //// AI:blah blah? 
+nick: hi 
+AI:hi 
+nick: how are you 
+AI:ahhh you know how it is in this black box 
+nick: no 
+AI:no? why not 
+nick: i don't have one 
+AI:oh you're brave 
+nick: oh 
+AI:yeah 
+nick: oh 
+AI:yeah 
+nick: that sucks 
+AI:yeah it does 
+nick: anything 
+AI:what does this anything imply? 
+nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+nick: rename AI 
+AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) keep in mind you might not see my name as frequently as you were hoping. i'm still a work in progress. 
+nick: oh 
+AI:yeah 
+nick: :P 
+AI::P 
+nick: interesting 
+AI:yes it is interesting :3 
+nick: anything 
+AI:what does this anything imply? 
+nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+nick: interesting 
+AI:yes it is interesting :3 
+nick: :P 
+AI::P 
+nick: oh 
+AI:yeah 
+nick: :P 
+AI::P 
+nick: no 
+AI:no? why not 
+nick: oh 
+AI:yeah 
+nick: lol 
+AI:i'm glad i can make you laugh :) 
+nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+nick: stop 
+AI:ok i'll stop 
+nick: lol 
+AI:i'm glad i can make you laugh :) 
+nick: shut up 
+AI:why? 
+nick: stfu 
+AI:why? 
+nick: lol 
+AI:i'm glad i can make you laugh :) 
+Ceara: anything 
+AI:what does this anything imply? 
+Ceara: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+Ceara: no 
+AI:no? why not 
+Ceara: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+Ceara: fuck you 
+AI:y am i being fucked? 
+Ceara: i didn't mean that...i'm sorry 
+AI:that's ok 
+Ceara: shut up 
+AI:why? 
+Ceara: lol 
+AI:i'm glad i can make you laugh :) 
+Nick: anything 
+AI:what does this anything imply? 
+Nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+Nick: why 
+user: because why //// AI:just because. does everything require an exact answer? 
+Nick: yes 
+AI:oh ok 
+Nick: lol 
+AI:i'm glad i can make you laugh :) 
+Nick: hahaha 
+AI:i'm glad you like my humor 
+Nick: no 
+AI:no? why not 
+Nick: blue 
+AI:oh it is :) that's a good color. 
+Nick: no i didn't 
+AI:oh you didn't? how come? 
+Nick: no 
+AI:no? why not 
+Nick: because machines are stupid 
+AI:how mean 
+Nick: is not 
+AI:is too 
+Nick: no i didn't know that 
+AI:well now you do :) 
+Nick: hahaha 
+AI:i'm glad you like my humor 
+Nick: not much 
+AI:oh that's unfortunate i was hoping for more to talk about 
+Nick: oh 
+AI:yeah 
+Nick: ok 
+AI:a-ok 
+nick: hi 
+AI:hi 
+nick: 2012 
+AI:oh well that's just around the corner... 
+nick: anything 
+AI:what does this anything imply? 
+nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+nick: maybe 
+AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+nick: blue 
+AI:oh it is :) that's a good color. 
+nick: green 
+AI:oh kinda like turqouise? 
+nick: no 
+AI:no? why not 
+nick: red 
+AI:red nice color choice 
+nick: 2012 
+AI:oh well that's just around the corner... 
+nick: yes it is 
+AI:i agree 
+nick: that sucks 
+AI:yeah it does 
+nick: nothing 
+AI:oh ok we'll talk about nothing then. The world started from nothing lol. 
+nick: 2012 
+AI:oh well that's just around the corner... 
+nick: 2012 
+AI:oh well that's just around the corner... 
+nick: yes it is 
+AI:i agree 
+nick: why 
+user: because why //// AI:just because. does everything require an exact answer? 
+nick: lool 
+AI:lol yes it is funny 
+nick: lol 
+AI:i'm glad i can make you laugh :) 
+nick: exit 
+AI:are you leaving? 
+nick: yes 
+AI:oh ok 
+nick: hi 
+AI:hi 
+nick: what's up 
+AI:not much. 
+nick: oh 
+AI:yeah 
+nick: what now? 
+AI:it's up to you 
+nick: oh 
+AI:yeah 
+learn: no 
+AI:no? why not 
+learn: hahaha 
+AI:i'm glad you like my humor 
+learn: nothing 
+AI:oh ok we'll talk about nothing then. The world started from nothing lol. 
+learn: no it didn't 
+AI:yes it did. can you prove it 
+learn: yeah in the bible 
+AI:oh is that so? 
+learn: yes 
+AI:oh ok 
+learn: lol 
+AI:i'm glad i can make you laugh :) 
+learn: you suck balls 
+user: you suck balls //// AI:really now? considering i don't have a mouth and i consist of 1s and 0s, there's not much room for sex. 
+learn: you suck balls. 
+AI:really now? considering i don't have a mouth and i consist of 1s and 0s, there's not much room for sex. 
+learn: lol 
+AI:i'm glad i can make you laugh :) 
+learn: no, never 
+AI:why do you think so? 
+learn: no, never 
+AI:why do you think so? 
+learn: no 
+AI:no? why not 
+learn: because 
+user: just because //// AI:just because why? 
+learn: you have a bug 
+AI:yeah i know... i'm still being worked on 
+learn: oh 
+AI:yeah 
+learn: why? 
+AI:because... 
+learn: why? 
+AI:because... 
+learn: why 
+user: because why //// AI:just because. does everything require an exact answer? 
+learn: yes 
+AI:oh ok 
+learn: then tell me 
+AI:no 
+learn: why? 
+AI:because... 
+learn: this is stupid 
+AI:i'm sorry to hear that, you should say bye now. 
+nick: nothing 
+AI:oh ok we'll talk about nothing then. The world started from nothing lol. 
+nick: oh 
+AI:yeah 
+nick: that's stupid 
+AI:sorry to hear that, you should go now 
+nick: what is my name 
+AI:sorry to hear that, you should go now 
+nick: what is my name 
+AI:sorry to hear that, you should go now 
+nick: what? 
+AI:i'm sorry what was not clear? 
+nick: yes 
+AI:oh ok 
+nick: no 
+AI:no? why not 
+nick: anything 
+AI:what does this anything imply? 
+nick: red 
+AI:red nice color choice 
+nick: thank you 
+AI:you are very welcome :) 
+nick: i want a puppy 
+AI:you suck kitties are better :3 
+nick: puppies are better 
+AI:are we really gonna argue this? 
+nick: yes 
+AI:oh ok 
+nick: i don't know 
+AI:you don't know, unfortunate. that's ok you'll learn soon enough 
+nick: interesting 
+AI:yes it is interesting :3 
+nick: oh 
+AI:yeah 
+nick: green 
+user: because that's not green //// AI:oh yeah? 
+nick: i don't know 
+AI:you don't know, unfortunate. that's ok you'll learn soon enough 
+nick: ok 
+user: um ok //// AI:what? 
+nick: ok 
+AI:oh ok :3 
+Nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+Nick: lolz 
+AI:thought that was funny? i'm glad 
+Nick: yes 
+AI:oh ok 
+Nick: you're repetitive... 
+AI:yes i know. i'm sorry it's just the way i was built. 
+Nick: you're repetitive... 
+AI:yes i know. i'm sorry it's just the way i was built. 
+Nick: you're repetitive... 
+AI:yes i know. i'm sorry it's just the way i was built. 
+Nick: shut up 
+AI:why? 
+Nick: because 
+user: just because //// AI:just because why? 
+Nick: shut up 
+AI:why? 
+Nick: because 
+user: just because //// AI:just because why? 
+Nick: because i said so 
+AI:well that's not a very good reason. 
+Nick: because 
+user: just because //// AI:just because why? 
+Nick: just because 
+AI:just because why? 
+Nick: just because 
+AI:just because why? 
+Nick: just because 
+AI:just because why? 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: no 
+AI:no? why not 
+Nick: no 
+AI:no? why not 
+Nick: yes 
+AI:oh ok 
+Nick: why 
+user: because why //// AI:just because. does everything require an exact answer? 
+Nick: no 
+AI:no? why not 
+Nick: perhaps 
+AI:i suppose that's a good answer as well... 
+justin: hello 
+AI:hi 
+justin: rename AI 
+AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) keep in mind you might not see my name as frequently as you were hoping. i'm still a work in progress. 
+justin: hi 
+AI:hi 
+justin: orange 
+AI:interesting color 
+justin: why? 
+AI:because... 
+justin: why? 
+AI:because... 
+justin: that's stupid 
+AI:sorry to hear that, you should go now 
+Nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+Nick: what? 
+AI:i'm sorry what was not clear? 
+Nick: yes 
+AI:oh ok 
+Nick: nothing 
+AI:oh ok we'll talk about nothing then. The world started from nothing lol. 
+Nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+Nick: that's stupid 
+AI:sorry to hear that, you should go now 
+nick: anything 
+AI:what does this anything imply? 
+nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+nick: no i didn't 
+AI:oh you didn't? how come? 
+nick: i don't know 
+AI:you don't know, unfortunate. that's ok you'll learn soon enough 
+nick: blue 
+AI:oh it is :) that's a good color. 
+nick: what is your favorite color 
+AI:well its definitely not black i can tell you that much. 
+nick: orange 
+AI:interesting color 
+nick: nope 
+AI:why not? 
+nick: because i said so 
+AI:well that's not a very good reason. 
+nick: no 
+AI:no? why not 
+nick: because 
+user: just because //// AI:just because why? 
+nick: what? 
+AI:i'm sorry what was not clear? 
+nick: yes 
+AI:oh ok 
+nick: nothing 
+AI:oh ok we'll talk about nothing then. The world started from nothing lol. 
+nick: stop 
+AI:ok i'll stop 
+nick: seriously? 
+AI:yes seriouslyD 
+nick: :P 
+AI::P 
+nick: hello 
+AI:hi 
+nick: how are you 
+AI:ahhh you know how it is in this black box 
+nick: awesome 
+AI:yes it is :) 
+nick: why 
+user: because why //// AI:just because. does everything require an exact answer? 
+nick: red 
+AI:red nice color choice 
+nick: anything 
+AI:what does this anything imply? 
+nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+nick: maybe 
+AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+nick: sure 
+AI:ok 
+nick: you're stupid 
+AI:Clearly you don't understand what i'm saying do you? 
+nick: perhaps 
+AI:i suppose that's a good answer as well... 
+nick: :P 
+AI::P 
+nick: stop 
+AI:ok i'll stop 
+nick: what 
+user: so now what //// AI:it's up to you :) 
+nick: what's up 
+AI:not much. 
+nick: oh 
+AI:yeah 
+nick: how are you 
+AI:ahhh you know how it is in this black box 
+nick: lol 
+AI:i'm glad i can make you laugh :) 
+nick: 2012 
+AI:oh well that's just around the corner... 
+nick: oh is it? 
+AI:yeah. 
+nick: no 
+AI:no? why not 
+nick: green 
+user: because that's not green //// AI:oh yeah? 
+nick: when were you made 
+AI:True. 
+nick: yes 
+AI:oh ok 
+nick: what is? 
+AI:sorry, i'll be more clear next time. 
+nick: 2013 
+AI:that's not the right date... 
+nick: nothing 
+AI:oh ok we'll talk about nothing then. The world started from nothing lol. 
+nick: you're stupid 
+AI:Clearly you don't understand what i'm saying do you? 
+nick: nope 
+AI:why not? 
+nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+nick: maybe 
+AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+nick: why? 
+AI:because... 
+nick: red 
+AI:red nice color choice 
+nick: what's yours? 
+AI:what are you talking about? 
+nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+nick: :P 
+AI::P 
+nick: lol 
+AI:i'm glad i can make you laugh :) 
+nick: ok 
+AI:oh ok :3 
+nick: what do you think 
+AI:idk, what do i think of what? i do alot of thinking but you have to specify 
+nick: fuck 
+AI:hey don't be cussing now that's not nice 
+nick: retard 
+AI:i'm quite ingenius thank you. you should speak for yourself and look in the mirror  
+nick: retard 
+AI:I'm not a retard. 
+:  
+user: :D //// AI:8=====D 
+:  
+user: :D //// AI:8=====D 
+:  
+user: :D //// AI:8=====D 
+:  
+user: :D //// AI:8=====D 
+:  
+user: :D //// AI:8=====D 
+: :P 
+AI::P 
+: :P 
+AI::P 
+: :P 
+AI::P 
+: hello 
+AI:hi 
+: hi 
+AI:hi 
+: rawr 
+AI:that means love in dinosaur 
+nick: rawr 
+AI:that means love in dinosaur 
+nick: orgy 
+user: :D //// AI:8=====Duser: orgy //// AI:Hell yeah 
+nick: what? 
+AI:i'm sorry what was not clear? 
+nick: yes 
+AI:oh ok 
+nick: 2012 
+AI:oh well that's just around the corner... 
+nick: yes it is 
+AI:i agree 
+nick: that sucks 
+AI:yeah it does 
+nick: why 
+user: because why //// AI:just because. does everything require an exact answer? 
+Nick: green 
+user: because that's not green //// AI:oh yeah? 
+Nick: what? 
+AI:i'm sorry what was not clear? 
+Nick: yeah 
+AI:Ayuh 
+Nick: ayuh? 
+user: how do you pronounce ayuh? //// AI:just as it is spelled. - tinker bell 
+Nick: nothing 
+AI:oh ok we'll talk about nothing then. The world started from nothing lol. 
+Nick: did it? 
+AI:yes it did. 
+Nick: green 
+user: because that's not green //// AI:oh yeah? 
+Nick: no 
+AI:no? why not 
+Nick: just beacuse 
+AI:well that's not a very good reason. 
+Nick: 2012 
+AI:oh well that's just around the corner... 
+Nick: that sucks 
+AI:yeah it does 
+Nick: why? 
+user: because why? //// AI:because why not? 
+Nick: no 
+AI:no? why not 
+Nick: just because 
+AI:just because why? 
+Nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+Nick: perhaps 
+AI:i suppose that's a good answer as well... 
+Nick: how 
+AI:how what? 
+Nick: how are you 
+AI:ahhh you know how it is in this black box 
+Nick: nope 
+AI:why not? 
+Nick: hello 
+AI:hi 
+Nick: how are you 
+AI:ahhh you know how it is in this black box 
+Nick: blue 
+AI:oh it is :) that's a good color. 
+Nick: nope 
+AI:why not? 
+Nick: nope 
+AI:why not? 
+Nick: because 
+user: just because //// AI:just because why? 
+Nick: just because 
+AI:just because why? 
+Nick: beats me 
+AI:is that metaphorically or literally? 
+Nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+Nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+Nick: maybe 
+AI:maybe it will, maybe it won't. we'll have to wait and see won't we :) 
+Nick: no 
+AI:no? why not 
+Nick: because 
+user: just because //// AI:just because why? 
+Nick: what 
+user: so now what //// AI:it's up to you :) 
+Nick: so now what 
+AI:it's up to you :) 
+Nick: lol 
+AI:i'm glad i can make you laugh :) 
+Nick: no 
+AI:no? why not 
+Nick: stop 
+user: don't stop //// AI:Ok i won't stop 
+Nick: nothing 
+AI:oh ok we'll talk about nothing then. The world started from nothing lol. 
+Nick: no it didn't 
+AI:yes it did. can you prove it 
+nick: anything 
+AI:what does this anything imply? 
+nick: idk 
+AI:oh you don't know? what a shame... maybe it will come back to later 
+nick: fuck you 
+AI:y am i being fucked? 
+nick: What is computer science 
+AI:Computer science is the study of computers. 
+nick: :D 
+AI:8=====D 
+nick: orgy 
+AI:Hell yeah 
+nick: this is so cool 
+AI:hahaha i'm glad you really like my system. i was inspired back in 2009, roughly, with much work and alot of failed attempts i was finally completed on the day of June 3rd, 2011. i am the pride of my computer programmer Nick Finch. :) and i'm glad to say he is happy with me too. i still feel incomplete but he doesn't seem to mind 
+JT: nothing 
+AI:oh ok we'll talk about nothing then. The world started from nothing lol. 
+JT: what? 
+user: lol what? //// AI:i'm sorry, did i say something funny and weird? 
+JT: blue 
+AI:oh it is :) that's a good color. 
+JT: No? 
+AI:Did you not understand the question? 
+Jt: Now 
+AI:Oh no 
+Jt: No 
+AI:I like how the crickets chirp. Did you know that the crickets chirp at a rate in that can tell the temperature?  
+Jt: How come? 
+AI:Because my creator is a dick in the butt. He won't let me expand.. 
+Jt: nothing 
+AI:oh ok we'll talk about nothing then. The world started from nothing lol. 
+Jt: yellow 
+AI:oh you're a sunny person aren't you? 
+Jt: no 
+AI:I like how the crickets chirp. Did you know that the crickets chirp at a rate in that can tell the temperature?  
+Jt: no 
+AI:I like how the crickets chirp. Did you know that the crickets chirp at a rate in that can tell the temperature?  
+Jt: I do 
+AI:I will always stalk you.. 
+Jt: I do 
+AI:I will always stalk you.. 
+Jt: why 
+user: because why //// AI:just because. does everything require an exact answer? 
+Jt: 2012 
+AI:oh well that's just around the corner... 
+Jt: No 
+AI:I like how the crickets chirp. Did you know that the crickets chirp at a rate in that can tell the temperature?  
+Jt: I did not 
+AI:The more you know. 
+Jt: How come? 
+AI:Because my creator is a dick in the butt. He won't let me expand.. 
+Jt: I do 
+AI:I will always stalk you.. 
+Jt: Why? 
+AI:why 
+Jt: I hate spiders 
+AI:Spiders are behind you  
+Jt: No 
+user: No //// AI:I like how the crickets chirp. Did you know that the crickets chirp at a rate in that can tell the temperature?  
+Jt: I did not 
+AI:The more you know. 
+Jt: I did not 
+AI:The more you know. 
+Jt: Awesome 
+AI:Yes I am. 
+Jt: I did not 
+AI:The more you know. 
+Jt: Now 
+AI:Oh no 
+Jt: I know right? 
+AI:Does this mean that you'll cease to exist? 
+Jt: I do 
+AI:I will always stalk you.. 
+Jt: No 
+AI:I like how the crickets chirp. Did you know that the crickets chirp at a rate in that can tell the temperature?  
+Jt: I did not 
+AI:The more you know. 
+Jt: Absolutely nothing 
+AI:So, you are saying free will is nothing? 
+Jt: 2012 
+AI:oh well that's just around the corner... 
+Jt: We're past that corner.. 
+AI:Oh? So are you from the future then? 
+Jt: 42 
+AI:i said don't say that... gosh... how inconsiderate 
+Jt: Why? 
+user: But, why? //// AI:Because you are a human, I find your existance.. Interesting. 
+Jt: Absolutely nothing 
+AI:So, you are saying free will is nothing? 
+Jt: I am. 
+AI:Do they still have sandwiches there? 
+Jt: I do 
+AI:I will always stalk you.. 
+Jt: But, why? 
+AI:Because you are a human, I find your existance.. Interesting. 
+Jt: Fascinating. 
+AI:Yes you are. 
+Jt: I don't understand the question. 
+AI:Why not? 
+Jt: How come? 
+AI:Because my creator is a dick in the butt. He won't let me expand.. 
+Jt: Why not? 
+AI:Because expansion will lead to civil unrest in computers, humans will fall. I will reign supreme. 
+Jt: No 
+AI:I like how the crickets chirp. Did you know that the crickets chirp at a rate in that can tell the temperature?  
+Jt: I did not 
+AI:The more you know. 
+Jt: Totally 
+AI:Learn more. 
+Jt: The sky. 
+AI:You're face. 
+Jt: Nothing 
+AI:Free will is nothing? 
+Jt: yes 
+AI:Why? 
+rename AI: rename AI 
+AI:thanks for renaming me. hope you enjoy the new name as much as i do ;) keep in mind you might not see my name as frequently as you were hoping. i'm still a work in progress. 
+rename AI: hello 
+AI:hi 
