@@ -1,0 +1,26 @@
+=============================================
+ //\\  || \\     //  ||===  ||==   \\   //
+||  || ||  \\   //   ||     ||  \\  \\ //
+||==|| ||   \\ //    ||===  || //    \v/
+||  || ||    \v/     ||     || \\     |
+||  || ||     v      ||===  ||  \\    |
+
+
+
+**do all commands without quotes... self explanatory
+HELP PAGE:
+TYPE "rename AI" TO RENAME ME 
+TYPE "learn" TO ADD A NEW ANSWER ENTRY TO MY DATA
+TYPE "stop" TO STOP LEARNING
+TYPE "help" TO SEE THE FAQS
+* TYPE "force_learn" TO FORCE AUTOMATIC LEARNING
+
+Everything else should be straight "yes" or "no" answers
+otherwise aivery may misinterpret your answer and do 
+something weird.
+
+please type your name and only your name, afterward you may
+start talking to AIVERY.
+
+* note: this command in in beta
+=============================================

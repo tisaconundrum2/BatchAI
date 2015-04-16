@@ -1,0 +1,20 @@
+FAQS - by Nick Finch
+::close the window to continue talking to AI::
+
+Q: why does my chatbot talk funny
+A: this could be a simple bug or just the way you phrased your sentence. make sure you talk clearly to AI so it will understand you better.
+
+Q: can i teach my AI to love?
+A: yep you sure can :) lol, simply delete or move the chat_database files (both of them) and then you can start on a fresh slate with AI then you can have at all you want. i must warn you though. it will take you a while for him or her to relearn everything again.
+
+Q: what is the source code
+A: simple question. just ask that to AI (s)he can answer that.
+
+Q: can i rename AI?
+A: yes you can. simply type rename AI in the chat bot's IM he'll open the window to allow for renaming
+
+Q: can i clear the screen
+A: yes you can just ask type "clear" in the IM (s)he'll clean it up for you
+
+send me mail over to html.css.xhtml@gmail.com
+i'll reply as fast as i can
