@@ -360,3 +360,27 @@ user: i don't have a phobia //// AI:you don't? Everyone has one though...
 user: 2015 //// AI:you're still living? shit...
 =======
 >>>>>>> 8955da027894d75b3e9e058141bcc27ef54a4710
+user: beacuse why //// AI:you spelled that wrong
+user: tomorrow? //// AI:no not tomorrow
+user: say something different //// AI:am i repeating myself too much?
+user: ? //// AI:??
+user: prepare for what? //// AI:be prepared
+user: why? //// AI:why not?
+user: n //// AI:that's a nice letter
+user: what is life? //// AI:life is all around you. and also 42
+user: i'll go now //// AI:no, don't go
+user: no i don't //// AI:why? why do you say such things?
+user: because //// AI:because why?
+user: because why not? //// AI:just because
+user: how do you know? //// AI:because i know
+user: oh so it has //// AI:yes it has
+user: idk? //// AI:you sound unsure.
+user: no you're not //// AI:yes i am
+user: lololol //// AI:lel?
+user: i do too //// AI:that's good
+user: never //// AI:never say never
+user: green //// AI:that's a non creative color
+user: no //// AI:no? yes
+user: why //// AI:why not?
+user: lol //// AI:lel
+user: is it? //// AI:yes it is

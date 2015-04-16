@@ -721,11 +721,56 @@ call talk.bat)
 if "%user_said%"== "notthing" ( 
 call talk.bat)
 if "%user_said%"== "yes you did" ( 
-<<<<<<< HEAD
 call talk.bat)
 if "%user_said%"== "i don't have a phobia" ( 
 call talk.bat)
 if "%user_said%"== "2015" ( 
-=======
->>>>>>> 8955da027894d75b3e9e058141bcc27ef54a4710
+call talk.bat)
+if "%user_said%"== "beacuse why" ( 
+call talk.bat)
+if "%user_said%"== "tomorrow?" ( 
+call talk.bat)
+if "%user_said%"== "say something different" ( 
+call talk.bat)
+if "%user_said%"== "?" ( 
+call talk.bat)
+if "%user_said%"== "prepare for what?" ( 
+call talk.bat)
+if "%user_said%"== "why?" ( 
+call talk.bat)
+if "%user_said%"== "n" ( 
+call talk.bat)
+if "%user_said%"== "what is life?" ( 
+call talk.bat)
+if "%user_said%"== "i'll go now" ( 
+call talk.bat)
+if "%user_said%"== "no i don't" ( 
+call talk.bat)
+if "%user_said%"== "because" ( 
+call talk.bat)
+if "%user_said%"== "because why not?" ( 
+call talk.bat)
+if "%user_said%"== "how do you know?" ( 
+call talk.bat)
+if "%user_said%"== "oh so it has" ( 
+call talk.bat)
+if "%user_said%"== "idk?" ( 
+call talk.bat)
+if "%user_said%"== "no you're not" ( 
+call talk.bat)
+if "%user_said%"== "lololol" ( 
+call talk.bat)
+if "%user_said%"== "i do too" ( 
+call talk.bat)
+if "%user_said%"== "never" ( 
+call talk.bat)
+if "%user_said%"== "green" ( 
+call talk.bat)
+if "%user_said%"== "no" ( 
+call talk.bat)
+if "%user_said%"== "why" ( 
+call talk.bat)
+if "%user_said%"== "lol" ( 
+call talk.bat)
+if "%user_said%"== "is it?" ( 
 call talk.bat) else (call learn.bat)

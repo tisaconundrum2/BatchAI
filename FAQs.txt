@@ -3,6 +3,7 @@ FAQS - by Nick Finch
 
 Q: why does my chatbot talk funny
 A: this could be a simple bug or just the way you phrased your sentence. make sure you talk clearly to AI so it will understand you better.
+A: also you can refine the AI but typing "learn" without quotes.
 
 Q: can i teach my AI to love?
 A: yep you sure can :) lol, simply delete or move the chat_database files (both of them) and then you can start on a fresh slate with AI then you can have at all you want. i must warn you though. it will take you a while for him or her to relearn everything again.
