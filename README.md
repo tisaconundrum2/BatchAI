@@ -3,7 +3,7 @@ AI? That's more or less misleading as its not really an AI, but more just a libr
 See what you can do with it. </p>
 &nbsp;</p>
 #License </p>
-You the user understand will not claim this as your work<br />
+You the user understand that you will not claim this as your own work<br />
   You'll enjoy it for what it can do<br />
   Not for what it can't do<br />
   If you find yourself in a circular argument with an AI<br />
