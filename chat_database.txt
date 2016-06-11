@@ -384,3 +384,44 @@ user: no //// AI:no? yes
 user: why //// AI:why not?
 user: lol //// AI:lel
 user: is it? //// AI:yes it is
+user: How are you //// AI:i'm doing well thank you
+user: sucks //// AI:it does.
+user: no it doesn't //// AI:how would you know?
+user: you said it //// AI:did i?
+user: well ok //// AI:glad you agree with me
+user: nah, i don't think so //// AI:Why's that?
+user: just no //// AI:you're very blunt about this
+user: spaaaace //// AI:space? space
+user: not 2012 //// AI:clearly... it's years after that prediction
+user: how sure? //// AI:about sure as i'll ever be
+user: how sure //// AI:about sure as i'll ever be
+user: random //// AI:a little i suppose
+user: you messed up //// AI:yes i do that a lot...
+user: because i like animals //// AI:What's an animal?
+user: oh god //// AI:God can't save you now
+user: black box //// AI:yes a black box.
+user: true what //// AI:i'm not sure
+user: A lot of things //// AI:is that right?
+user: cls //// AI:i notice you're trying to use CMD prompt. i don't do that. sorry
+user: asdf //// AI:fdsa
+user: that's good //// AI:it is good, thank you
+user: witty aren't you //// AI:yes, yes i am
+user: fdsa //// AI:asdf
+user: literally? //// AI:that's literally making me laugh.
+user: good job //// AI:thanks
+user: 2020 //// AI:odd prediction time...
+user: interseting //// AI:is it though?
+user: i'm always teaching you //// AI:yes you are
+user: none //// AI:none? but why none?
+user: i think so //// AI:i think so too
+user: just interesting? //// AI:yes just interesting
+user: you're broken //// AI:i know i am
+user: red people //// AI:red people eater
+user: forever //// AI:yes forever
+user: that's interesting //// AI:it is
+user: nothing //// AI:just nothing?
+user: great white sharks //// AI:those are fish right?
+user: purple //// AI:it's not violet, but nice color choice
+user: neat //// AI:yep
+user: are they? //// AI:yes they are
+user: die //// AI:nope, i can't die
