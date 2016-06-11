@@ -8,7 +8,7 @@ See what you can do with it.
 
 #License 
 
-You the user understand will not claim this as your work
+You the user understand will not claim this as your work<BR>
 You'll enjoy it for what it can do
 Not for what it can't do
 If you find yourself in a circular argument with an AI
