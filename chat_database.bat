@@ -773,4 +773,86 @@ call talk.bat)
 if "%user_said%"== "lol" ( 
 call talk.bat)
 if "%user_said%"== "is it?" ( 
+call talk.bat)
+if "%user_said%"== "How are you" ( 
+call talk.bat)
+if "%user_said%"== "sucks" ( 
+call talk.bat)
+if "%user_said%"== "no it doesn't" ( 
+call talk.bat)
+if "%user_said%"== "you said it" ( 
+call talk.bat)
+if "%user_said%"== "well ok" ( 
+call talk.bat)
+if "%user_said%"== "nah, i don't think so" ( 
+call talk.bat)
+if "%user_said%"== "just no" ( 
+call talk.bat)
+if "%user_said%"== "spaaaace" ( 
+call talk.bat)
+if "%user_said%"== "not 2012" ( 
+call talk.bat)
+if "%user_said%"== "how sure?" ( 
+call talk.bat)
+if "%user_said%"== "how sure" ( 
+call talk.bat)
+if "%user_said%"== "random" ( 
+call talk.bat)
+if "%user_said%"== "you messed up" ( 
+call talk.bat)
+if "%user_said%"== "because i like animals" ( 
+call talk.bat)
+if "%user_said%"== "oh god" ( 
+call talk.bat)
+if "%user_said%"== "black box" ( 
+call talk.bat)
+if "%user_said%"== "true what" ( 
+call talk.bat)
+if "%user_said%"== "A lot of things" ( 
+call talk.bat)
+if "%user_said%"== "cls" ( 
+call talk.bat)
+if "%user_said%"== "asdf" ( 
+call talk.bat)
+if "%user_said%"== "that's good" ( 
+call talk.bat)
+if "%user_said%"== "witty aren't you" ( 
+call talk.bat)
+if "%user_said%"== "fdsa" ( 
+call talk.bat)
+if "%user_said%"== "literally?" ( 
+call talk.bat)
+if "%user_said%"== "good job" ( 
+call talk.bat)
+if "%user_said%"== "2020" ( 
+call talk.bat)
+if "%user_said%"== "interseting" ( 
+call talk.bat)
+if "%user_said%"== "i'm always teaching you" ( 
+call talk.bat)
+if "%user_said%"== "none" ( 
+call talk.bat)
+if "%user_said%"== "i think so" ( 
+call talk.bat)
+if "%user_said%"== "just interesting?" ( 
+call talk.bat)
+if "%user_said%"== "you're broken" ( 
+call talk.bat)
+if "%user_said%"== "red people" ( 
+call talk.bat)
+if "%user_said%"== "forever" ( 
+call talk.bat)
+if "%user_said%"== "that's interesting" ( 
+call talk.bat)
+if "%user_said%"== "nothing" ( 
+call talk.bat)
+if "%user_said%"== "great white sharks" ( 
+call talk.bat)
+if "%user_said%"== "purple" ( 
+call talk.bat)
+if "%user_said%"== "neat" ( 
+call talk.bat)
+if "%user_said%"== "are they?" ( 
+call talk.bat)
+if "%user_said%"== "die" ( 
 call talk.bat) else (call learn.bat)
