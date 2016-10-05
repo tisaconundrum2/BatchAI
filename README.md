@@ -24,7 +24,7 @@ This is a share-a-like program<br />
 #First thing to notice is the coupling</p>
 The files that you see before you are very closely coupled. This can't be completely remedied unless I completely alter the entirety of the program.</p>
 Part of the reason I won't do that is because it would destroy the history of this program. <br />
-  I was a 16 year old boy who didn't know a lick about programming, and this was the very first project that would start me on the journey to higher level programming.</p>
+  I was a 14 year old boy who didn't know a lick about programming, and this was the very first project that would start me on the journey to higher level programming.</p>
 #I'm not the first<br />
   I'm not the first to create an AI batch, in fact, during my time researching how to write most of the code, I had stumbled onto a batch AI program that did exactly what I was trying to do. But everything wasn't localized, instead the batch file FTP'd into a server and accessed a library of text to search through. Similar to the protocols in mine, it would find phrasing that had been said before.</p>
 #His was Better than mine<br />
