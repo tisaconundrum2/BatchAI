@@ -27,7 +27,7 @@ Part of the reason I won't do that is because it would destroy the history of th
   I was a 14 year old boy who didn't know a lick about programming, and this was the very first project that would start me on the journey to higher level programming.</p>
 ##I'm not the first<br />
   I'm not the first to create an AI batch, in fact, during my time researching how to write most of the code, I had stumbled onto a batch AI program that did exactly what I was trying to do. But everything wasn't localized, instead the batch file FTP'd into a server and accessed a library of text to search through. Similar to the protocols in mine, it would find phrasing that had been said before.</p>
-##His was Better than mine<br />
+###His was Better than mine<br />
   In all honesty, that batch program that I found years ago, was a lot better than mine. However, for the age that I was, I'd like to think what I had made was impressive. I simply took a different path. However, because he had to be connected to a network and nothing was localized, his program suffers from not working at times.</p>
 ##Take it slow<br />
   Since you're a completely different person from me, the things you say will be new to AIVERY. If you'd like to see some of the past arguments and pings we had to eachother, take a look at &quot;latest_chat&quot; <br />
